@@ -19,8 +19,10 @@ public class Taller1ManejodeRepositorios {
         int y=2;
         int s=x+y;
         int r;
+        int m=x*y;
         
         System.out.println("suma "+" =" + s);
+        System.out.println("multiplicacion "+" = "+m);
     }
     
 }
