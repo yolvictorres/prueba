@@ -15,7 +15,12 @@ public class Taller1ManejodeRepositorios {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        int x=1;
+        int y=2;
+        int s=x+y;
+        int r;
+        
+        System.out.println("suma "+" =" + s);
     }
     
 }
