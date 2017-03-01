@@ -18,9 +18,10 @@ public class Taller1ManejodeRepositorios {
         int x=1;
         int y=2;
         int s=x+y;
-        int r;
+        int r=x-y;
         
         System.out.println("suma "+" =" + s);
+        System.out.println("resta x+y"+r);//resta
     }
     
 }
